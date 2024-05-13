@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola! Soy Lisandro Sona 👋
+Soy estudiante de la escuela experimental ProA de Laboulaye, Córdoba. Me interesa la programación. 
+Nací el 17/04/07 
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/lisandrosona)
 
 <!--
 **LichaSona123/LichaSona123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->í
